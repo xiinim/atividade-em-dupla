@@ -1,4 +1,4 @@
-nome = prompt('Escreva seu nome')
-salario = Number(window.prompt('Digite o valor do seu salário'))
+Nome = prompt('Escreva seu nome')
+Salario = Number(window.prompt('Digite o valor do seu salário'))
 
-salario2 = (10 / 100 * salario) + salario
+Salario2 = (10 / 100 * Salario) + Salario
